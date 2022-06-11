@@ -3,6 +3,7 @@
 
  ## Glad to See you Here !!!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${glowwEE})
 
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 # I'm a Girl, Frontend developer, NFT illustrator, and a funny potato!!
 

@@ -33,6 +33,7 @@
 <br />
 <br />
 
+---
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/gloryokafor6#gh-light-mode-only)
@@ -47,8 +48,8 @@
 
 <br />
 <br />
-<br />
 
+---
 <p align="center" width="60px" >
     📊 My Github Stats 📈
  </p>

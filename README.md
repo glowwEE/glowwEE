@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on minting NFT with the hashlip machine
 - 🌱 I’m currently learning anything i lay my freaking hands on 
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 👯 I’m looking to collaborate on Frontend projects
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about anything in my scope of knowledge and i gladly help
 - 📫 How to reach me: gloryokafor5@gmail.com

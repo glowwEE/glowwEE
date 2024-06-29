@@ -5,15 +5,15 @@
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-# I'm a Girl, Frontend developer, NFT illustrator, and a funny potato!!
+# I'm a Girl, Frontend developer, and illustrator!!
 
-- 🔭 I’m currently working on minting NFT with the hashlip machine
-- 🌱 I’m currently learning anything i lay my freaking hands on 
+- 🔭 I’m currently learning everyday
+- 🌱 I’m currently learning anything I lay my freaking hands-on 
 - 👯 I’m looking to collaborate on Frontend projects
 <!-- - 🤔 I’m looking for help with  -->
-- 💬 Ask me about anything in my scope of knowledge and i gladly help
+- 💬 Ask me about anything in my scope of knowledge and i will gladly help
 - 📫 How to reach me: gloryokafor5@gmail.com
-- 🥅 2023 Goals: Learn more about web3 and perfect most of my current skills
+- 🥅 2024 Goals: Learn more about web3 and perfect most of my current skills
 - ⚡ Fun fact: I love to draw and play video games and watch Anime
 
 

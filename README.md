@@ -1,7 +1,7 @@
 # Hi there I am Glory <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="25px">
 
 
- ## Glad to See you Here !!!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${glowwEE})
+ ## Glad to See you Here !!!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=glowwEE.visitor-badge)
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 

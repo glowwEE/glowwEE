@@ -23,7 +23,7 @@ I'm passionate about user-centric design, web performance, and clean, maintainab
 - ✍️ Writing technical content, tutorials, and SEO-optimized blog posts.
 - 💬 Helping others grow by teaching young ladies Frontend development. It is my way of giving back to the society.
 - 🧠 Exploring 2D animation, 3D web development  and AI technologies.
-- 🎯 2024 Goal: Perfect my current skill stack and explore more animation libraries like GSAP, Lottie, and Framer Motion.
+- 🎯 2025 Goal: Perfect my current skill stack and explore more animation libraries like GSAP, Lottie, and Framer Motion.
 
 ---
 
